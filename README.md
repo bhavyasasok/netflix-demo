@@ -5,7 +5,7 @@ Here's a polished `README.md` for your **Netflix Clone React.js** project on Git
 ````markdown
 # 🎬 Netflix Clone – React.js
 
-![Netflix Clone Preview](./screenshots/preview.jpeg)
+![Netflix Clone Preview](aa.jpeg)
 
 A fully functional **Netflix clone** built using **React.js**, replicating the core features of the original streaming platform. This project showcases modern web development practices, including user authentication, dynamic content rendering, responsive UI, and API integration with **TMDB**. Designed as a learning and portfolio project, it offers users an immersive movie-browsing experience.
 
@@ -42,19 +42,7 @@ This project was created to improve hands-on experience in front-end development
 
 ---
 
-## 🖼️ Screenshots
 
-Place your screenshots in a `/screenshots/` folder and rename them as needed.
-
-| Page | Preview |
-|------|---------|
-| Home Page | ![Home](./screenshots/home.jpeg) |
-| Sign In | ![Sign In](./screenshots/signin.jpeg) |
-| Movie Details | ![Movie Details](./screenshots/movie-details.jpeg) |
-| My List | ![My List](./screenshots/mylist.jpeg) |
-| Profile | ![Profile](./screenshots/profile.jpeg) |
-
----
 
 ## 🔧 How to Run Locally
 
@@ -102,19 +90,3 @@ npm start
 > This project is for educational and portfolio purposes only. It does not stream real content or serve commercial use.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License – feel free to use and modify it for your own learning projects.
-
-```
-
----
-
-✅ **Next Steps**:
-- Rename your uploaded image to `preview.jpeg` and save it under `/screenshots/` in your repo.
-- Add any additional screenshots you like.
-- Customize the Firebase/TMDB API setup section if needed.
-
-Let me know if you'd like help generating `.env` examples or deploying this to platforms like Vercel or Firebase Hosting!
-```
